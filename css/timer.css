@@ -1,0 +1,96 @@
+A
+{
+	text-decoration:none;
+	color:inherit;
+}
+html,body
+{
+	//font-family:"Courier New", Courier, monospace;
+	font-size:10px;
+	text-align:center;
+	background-color:black;
+	color:white;
+	min-width:950px;
+}
+.title
+{
+	font-weight:bold;
+}
+.font
+{
+	//font-family:"Courier New", Courier, monospace;
+	font-size:300%;
+	border-radius:10px;
+	background-color:red;
+	color:white;
+	width:10%;
+	height:50px;
+	border:2px solid white;
+}
+.p
+{
+	font-size:300%;
+	border-radius:10px;
+	background-color:red;
+	color:white;
+	width:3%;
+	//font-weight:bold;
+	height:50px;
+	border:2px solid white;
+}
+.m
+{
+	font-size:300%;
+	border-radius:10px;
+	background-color:red;
+	color:white;
+	width:3%;
+	font-weight:bold;
+	height:50px;
+	border:2px solid white;
+}
+.name
+{
+	//font-family:"Courier New", Courier, monospace;
+	font-size:300%;
+	border-radius:10px;
+	background-color:white;
+	color:black;
+	height:45px;
+	width:30%;
+}
+.time
+{
+	font-size:300%;
+	border-radius:10px;
+	background-color:black;
+	color:red;
+	width:12%;
+	height:50px;
+	font-family:'digital-7';
+	border:2px solid white;
+}
+.foot
+{
+	font-family:"courier new",courier,monospace;
+	font-size:20px;
+}
+::-webkit-scrollbar
+{
+	background: #272727;
+}
+::-webkit-scrollbar-button
+{
+	background: #383838;
+}
+::-webkit-scrollbar-thumb
+{
+	background: #333;
+}
+@font-face
+{
+	font-family:'digital-7';
+	src: url('../fonts/digital/digital-7.ttf');
+}
+
+/* Made by Thomas Agius */
